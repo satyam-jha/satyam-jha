@@ -25,7 +25,7 @@ Ready to take your projects to the next level? 🚀 Let's chat! 📩 I'm excited
 * 🚀  I'm currently working on [Appboxer](http://appboxer.com.au/)
 * 🧠  I'm learning Golang
 * 🤝  I'm open to collaborating on innovative real-time chat platform
-* ⚡  🎮 Gamer at Heart: When I need a break, I dive into the virtual world of gaming. It's a great way to unwind and connect with friends over some intense multiplayer action! 🎮
+* 🎮 Gamer at Heart: When I need a break, I dive into the virtual world of gaming. It's a great way to unwind and connect with friends over some intense multiplayer action! 🎮
 
 ### Skills
 

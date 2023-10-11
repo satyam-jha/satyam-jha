@@ -22,7 +22,7 @@ Ready to take your projects to the next level? 🚀 Let's chat! 📩 I'm excited
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [10satyam.jha@gmail.com](mailto:10satyam.jha@gmail.com)
-* 🚀  I'm currently working at [Appboxer](http://appboxer.com.au/)
+* 🚀  I'm currently working at [DianApps](http://dianapps.com/)
 * 🧠  I'm learning Golang
 * 🤝  I'm open to collaborating on innovative real-time chat platform
 * 🎮 Gamer at Heart: When I need a break, I dive into the virtual world of gaming. It's a great way to unwind and connect with friends over some intense multiplayer action! 🎮
